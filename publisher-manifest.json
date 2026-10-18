@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "d6e3d10f0892b32c9ad63aff",
+  "owner": "jkcgyju7",
+  "repo": "page-c738cba2a44d73ca9cfe4441",
+  "title": "美猴王(MonkeyKing)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c738cba2a44d73ca9cfe4441",
+      "a": "美猴王(MonkeyKing)",
+      "b": "",
+      "entity": "美猴王(MonkeyKing)",
+      "brand": "美猴王(MonkeyKing)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2e842c9cb8b92046f39564a66288d1eee17e495003b68788418ca6cd7d4894f2",
+      "content": {
+        "keyword1": "美猴王(MonkeyKing)",
+        "keyword2": "",
+        "primary_entity": "美猴王(MonkeyKing)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "美猴王 MonkeyKing：把名字摊开在纸上，再慢慢聊套餐怎么选、怎么用，以及你可能问的那些小事。",
+          "AI_DESCRIPTION": "美猴王 MonkeyKing：把名字摊开在纸上，再慢慢聊套餐怎么选、怎么用，以及你可能问的那些小事。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#111;color:#f2f2f2;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.65}\na{color:#f2f2f2;text-decoration:none}\na:hover{color:#e8c547}\n.aside{position:fixed;left:0;top:0;bottom:0;width:9.5rem;border-right:4px solid #f2f2f2;padding:1.2rem 0.8rem;background:#0a0a0a;z-index:5}\n.aside nav{display:flex;flex-direction:column;gap:0.85rem;font-size:0.92rem;letter-spacing:0.08em}\n.aside a{border:4px solid #f2f2f2;padding:0.45rem 0.5rem;text-align:left}\nmain{margin-left:9.5rem}\n.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:flex-end;padding:2rem 1.5rem 3rem;border-bottom:4px solid #f2f2f2;background:#161616}\n.hero h1{font-size:clamp(4.2rem,18vw,11rem);line-height:0.85;letter-spacing:-0.04em;font-weight:800;word-break:break-word}\n.hero p.tag{margin-top:1.4rem;max-width:36rem;font-size:1.15rem;color:#cfcfcf}\n.accent{color:#e8c547}\nsection{padding:2.4rem 1.5rem;border-bottom:4px solid #333}\nh2{font-size:1.7rem;margin-bottom:1rem;letter-spacing:0.04em}\nh3{font-size:1.15rem;margin:1rem 0 0.4rem}\n.note{max-width:40rem;color:#d4d4d4}\n.steps{display:flex;flex-direction:column;gap:1rem;margin-top:1rem}\n.card{border:4px solid #f2f2f2;padding:1rem 1.1rem;background:#1a1a1a}\n.plans{display:grid;grid-template-columns:1fr 1fr;gap:1rem;align-items:stretch}\n.plans .full{grid-column:1/-1}\n.mark{display:inline-block;background:#e8c547;color:#111;padding:0.1rem 0.45rem;font-weight:700;margin-left:0.4rem;font-size:0.8rem}\nul{padding-left:1.1rem;margin:0.4rem 0}\n.price{font-size:1.35rem;margin:0.3rem 0;color:#e8c547}\n.muted{color:#bdbdbd;font-size:0.95rem}\n.bubbles{display:flex;flex-direction:column;gap:0.85rem;max-width:42rem}\n.q,.a{border:4px solid #f2f2f2;padding:0.85rem 1rem;max-width:92%}\n.q{align-self:flex-start;background:#222}\n.a{align-self:flex-end;background:#0f0f0f}\n.who{font-size:0.75rem;letter-spacing:0.12em;color:#e8c547;margin-bottom:0.25rem}\nfooter{padding:1.5rem;color:#9a9a9a;font-size:0.9rem}\n@media(max-width:720px){\naside{position:static;width:100%;border-right:none;border-bottom:4px solid #f2f2f2}\naside nav{flex-direction:row;flex-wrap:wrap}\nmain{margin-left:0}\n.plans{grid-template-columns:1fr}\n.hero h1{font-size:clamp(3.2rem,22vw,6.5rem)}\n}\n</style><aside>\n<nav>\n<a href=\"#top\">封面</a>\n<a href=\"#hello\">先认识</a>\n<a href=\"#use\">怎么用</a>\n<a href=\"#plans\">套餐对照</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n</aside>\n<main id=\"top\">\n<section class=\"hero\">\n<h1>美猴王(MonkeyKing) · 美猴王<br>MONKEY<br>KING</h1>\n<p class=\"tag\">嘿，别被这几个大字吓到。我把名字铺满整面墙，只是想你进门时先记住：这里叫<span class=\"accent\">美猴王 MonkeyKing</span>。后面的事，我们慢慢说。</p>\n</section>\n<section id=\"hello\">\n<h2>先跟你打个招呼</h2>\n<p class=\"note\">手头没有一叠官方履历可以甩给你，所以我不编故事。页面上能写的，就是订阅怎么挑、步骤怎么走、以及你可能随口问的那些问题。价格和权益按下面对照表来，表里没有的，我也不假装知道。</p>\n</section>\n<section id=\"use\">\n<h2>使用说明（朋友版）</h2>\n<p class=\"note\">别急着点一堆按钮。按这四步走就够了。</p>\n<div class=\"steps\">\n<article class=\"card\">\n<h3>1. 先看自己每月大概会花多少</h3>\n<p>基础版适合轻量日常；旗舰版中间那档，页面上会标推荐；团队版面向人多、流量也多的情况。数字对不上需求，就先别下手。</p>\n</article>\n<article class=\"card\">\n<h3>2. 记下套餐名和结算周期</h3>\n<p>月付和年付是两套数字。年付那行写的是整年一口价，别和月费乘十二搞混。</p>\n</article>\n<article class=\"card\">\n<h3>3. 客户端先放一放</h3>\n<p>目前没有一份可核验的下载地址。等你拿到账户说明后，再按那份说明安装，比在网上随便搜靠谱。</p>\n</article>\n<article class=\"card\">\n<h3>4. 用起来有疑问，翻最下面的问答</h3>\n<p>我把常见卡壳写成对话。要是还对不上，就按你购买渠道给的联系方式问，别在这里猜。</p>\n</article>\n</div>\n</section>\n<section id=\"plans\">\n<h2>套餐两栏对照</h2>\n<p class=\"note\">左边日常两档并排看；团队版单独占一行，免得硬塞进窄栏里挤成一团。</p>\n<div class=\"plans\">\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"muted\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 流量额度</li>\n<li>同时在线 3 台设备</li>\n<li>基础影音访问说明（以实际开通范围为准）</li>\n<li>常规线路资源池</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>旗舰版<span class=\"mark\">推荐</span></h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"muted\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 流量额度</li>\n<li>同时在线 5 台设备</li>\n<li>更完整的影音访问说明（以实际开通范围为准）</li>\n<li>游戏向线路优化说明（以实际开通范围为准）</li>\n<li>工单优先处理时段：全周</li>\n</ul>\n</article>\n<article class=\"card full\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"muted\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 流量额度</li>\n<li>同时在线 20 台设备</li>\n<li>更高带宽资源说明（以实际开通范围为准）</li>\n<li>可谈定制路由（需另行确认）</li>\n<li>专属对接人服务（以开通时说明为准）</li>\n</ul>\n</article>\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端这块，先说实话</h2>\n<div class=\"card\">\n<p>目前没有可核对的官方下载链接，所以这里不放按钮、不编文件名。你若已经买了套餐，请只用账户邮件或后台里写明的安装方式。地址不确定时，链接一律留空，我也不会给你一个假的。</p>\n<p class=\"muted\">Windows / macOS / iOS / Android：版本与来源均待账户说明确认。</p>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题（我们俩对着聊）</h2>\n<div class=\"bubbles\">\n<article class=\"q\"><p class=\"who\">你</p><p>美猴王到底是干什么的？官网身份能写死吗？</p></article>\n<article class=\"a\"><p class=\"who\">美猴王</p><p>这一页只是订阅说明页。手头没有可引用的官方资质或评测，所以我不自称“什么平台”“多少节点”。记住名字，对照套餐就好。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>推荐标记是不是一定要买旗舰？</p></article>\n<article class=\"a\"><p class=\"who\">美猴王</p><p>不是命令。只是中间档覆盖面更全，适合拿不准的人。流量很小就基础版；人很多再看团队版。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>年付比月付便宜多少，你帮我算？</p></article>\n<article class=\"a\"><p class=\"who\">美猴王</p><p>基础 15×12=180，年付 150；旗舰 35×12=420，年付 350；团队 85×12=1020，年付 850。差价就是你提前锁一年的那截。</p></article>\n<article class=\"q\"><p class=\"who\">你</p><p>退款、日志、兼容列表呢？</p></article>\n<article class=\"a\"><p class=\"who\">美猴王</p><p>没有可靠材料，我就不写。这类条款以你下单时看到的页面为准。</p></article>\n</div>\n</section>\n<footer>美猴王 MonkeyKing · 静态说明页 · 不提供未核验的下载与交易入口</footer>\n</main>",
+          "hash": "afe1a9e4ef8f4824ab23560a9fa48f2eb66c0e0336648dc05d3dfd026e2cf3cd",
+          "seo": {
+            "title": "美猴王 MonkeyKing",
+            "keywords": "美猴王,MonkeyKing,订阅说明,套餐对照,常见问题",
+            "description": "美猴王 MonkeyKing：把名字摊开在纸上，再慢慢聊套餐怎么选、怎么用，以及你可能问的那些小事。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "649",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "10 黑白灰单色配一处强调色",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dcysj.cn",
+    "host": "p-60e6090e7c.dcysj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "95e1b6679646b047db4d99fb8904258a63f4cd41a30f08e50e9c7cb5854c9c50",
+    "sitemap.xml": "ab3fbfe05a96e1930428ad9da73de1754a368067a6a427da6fc896c9d2ec13a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fbd59cbc8b325618b9bbd74ff534e55c1700b608745e99b22fa860133b5ce674",
+    "robots.txt": "863d71c4abf9eee8bddc8731649c1178426b7bce95d103d9c309220598e3d50f",
+    "363915b9a83244c57c369fae8c609eb8.txt": "ed2667ed4713eb07eb881e23973d2a6dadce1452ba522cd391a78bbd9565f25e"
+  },
+  "revision": "24adfcdb8a8d1380253bd5e7cf8ac2c7e768f84f49285459ae8992a1b2e78934"
+}
